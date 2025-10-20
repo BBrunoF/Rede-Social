@@ -1,24 +1,6 @@
-<p align="center"><a href="https://social.sjcvaipur.in" target="_blank"><img src="https://i.ibb.co/7nDB1kD/Pics-Art-06-14-08-24-08.png" width="180"></a></p>
-
-<h1 align="center">Simple Social Media</h1>
-
-The [project demo](https://social.w3x.live) is hosted for FREE 💝 on [Wexron Hosting](https://wexronhosting.com).
-
-<a href="https://wexronhosting.com"><img src="https://wexronhosting.com/_nuxt/wex.76a224d8.svg" /></a>
-
-## Table of Contents 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Features](#features)
-- [Credits](#credits)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
+    This social media is an improved version of @albinvar social media.
 
-A very Simple Social media web application built with laravel Jetstream and livewire.
-
-The application is designed and tested to use conveniently without any issues.
 
 ## Features
 

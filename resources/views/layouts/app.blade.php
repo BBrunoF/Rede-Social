@@ -18,7 +18,7 @@
 
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBgCvZqr3lafoJXGdQvXGOi4Uvu8b_bi6o"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=API_KEY"></script>
         <script src="https://cdn.jsdelivr.net/npm/alpinejs@2.8.2/dist/alpine.min.js" defer></script>
         <script>
             function initialize(lat, lng) {
